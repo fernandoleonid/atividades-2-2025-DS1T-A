@@ -1,6 +1,6 @@
 # Projeto Coca‑Cola — Passo a passo (aprendizado)
 
-![image.png](./coca-cola/image.png)
+![image.png](./coca-cola.png)
 
 ## 1. Criar um repositório no GitHub
 
