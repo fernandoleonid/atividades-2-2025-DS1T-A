@@ -141,7 +141,20 @@ git add .
 git commit -m "estrutura com imagens, header, main e footer"
 git push
 ```
+<aside>
+💡
 
+Crie uma pasta chamada **img** e adicione as imagens abaixo:
+
+[https://fernandoleonid.github.io/coca-cola-2023/img/menu-burger.svg](https://fernandoleonid.github.io/coca-cola-2023/img/menu-burger.svg)
+
+[https://fernandoleonid.github.io/coca-cola-2023/img/map.svg](https://fernandoleonid.github.io/coca-cola-2023/img/map.svg)
+
+[https://fernandoleonid.github.io/coca-cola-2023/img/background-image.png](https://fernandoleonid.github.io/coca-cola-2023/img/background-image.png)
+
+[https://fernandoleonid.github.io/coca-cola-2023/img/coca-cola.png](https://fernandoleonid.github.io/coca-cola-2023/img/coca-cola.png)
+
+</aside>
 ---
 
 ## 8. Estilizar a imagem de fundo (`background-image`)
