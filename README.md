@@ -11,6 +11,7 @@
 8. Projeto Figma
 9. Pikachu
 10. Projeto (Dupla)
+11. [CSS Battle](https://cssbattle.dev/play/1)
 
 ## Dicas
 - [Exemplo de README.md](https://github.com/giannycabral/adote-um-animal)
