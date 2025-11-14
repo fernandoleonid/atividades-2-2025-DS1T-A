@@ -9,6 +9,8 @@
 6. Coca Cola
 7. Figma
 8. Projeto Figma
+9. Pikachu
+10. Projeto (Dupla)
 
 ## Dicas
 - [Exemplo de README.md](https://github.com/giannycabral/adote-um-animal)
